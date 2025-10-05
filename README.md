@@ -1,6 +1,6 @@
 ## Countdown Timer
 A simple and aesthetic countdown timer.  
-👉 [Open Countdown](https://seuusuario.github.io/countdown-widget)
+👉 [Open Countdown]((https://mahrii0152.github.io/countdown_timer/)
 
 ### How to use
 - Just open the link in your browser.  
